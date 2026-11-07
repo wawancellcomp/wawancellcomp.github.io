@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="id" class="scroll-smooth">
 <head>
@@ -1218,4 +1219,49 @@
     };
   </script>
 </body>
+=======
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#14120f" />
+    <meta
+      name="description"
+      content="Portfolio Sulistiawan, S.Kom. — Full Stack Developer, Kepala Divisi, dan Manajer Operasional dari Kabupaten Asahan, Sumatera Utara."
+    />
+    <script>
+      const savedTheme = localStorage.getItem('sulistiawan-theme');
+      document.documentElement.dataset.theme = savedTheme === 'light' ? 'light' : 'dark';
+      document.querySelector('meta[name="theme-color"]').content =
+        savedTheme === 'light' ? '#f6f2e9' : '#14120f';
+    </script>
+    <meta property="og:title" content="SULISTIAWAN® — Full Stack Developer & Operations Manager" />
+    <meta
+      property="og:description"
+      content="Membangun sistem yang andal. Memimpin operasional yang terstruktur."
+    />
+    <title>SULISTIAWAN® — Full Stack Developer & Manajer Operasional</title>
+    <link rel="icon" href="./Asset/img/favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Anton&family=Caveat:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./Asset/dist/app.css" />
+    <script src="./Asset/dist/app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Langsung ke konten</a>
+    <div id="root"></div>
+    <noscript>
+      <main class="noscript">
+        <h1>Sulistiawan, S.Kom. — Full Stack Developer & Manajer Operasional</h1>
+        <p>Portfolio ini memerlukan JavaScript untuk menampilkan karya interaktif.</p>
+        <a href="mailto:sulist.master@gmail.com">sulist.master@gmail.com</a>
+      </main>
+    </noscript>
+  </body>
+>>>>>>> 3f01e16 (Add portfolio website)
 </html>

@@ -1,0 +1,112 @@
+[
+  {
+    "title": "SISTEM INFORMASI MANAJEMEN MARKAZ YATIM",
+    "category": "Full Stack",
+    "year": "2025",
+    "role": "Full Stack Developer & Project Lead",
+    "type": "render",
+    "media": "https://github.com/wawancellcomp",
+    "description": "Aplikasi web terpadu untuk manajemen data anak asuh, operasional lintas divisi, pelaporan keuangan, dan administrasi di Yayasan Markaz Yatim Duafa Qurani.",
+    "stack": ["React", "Node.js", "MySQL"],
+    "visual": "markaz"
+  },
+  {
+    "title": "WAWANCELLCOMP ENTERPRISE POS & INVENTORY",
+    "category": "Web App",
+    "year": "2024",
+    "role": "Founder & Full Stack Developer",
+    "type": "website",
+    "media": "https://github.com/wawancellcomp",
+    "description": "Sistem Point of Sales, pelacakan stok suku cadang, servis komputer dan seluler, serta laporan operasional Wawancellcomp.",
+    "stack": ["PHP", "MySQL", "JavaScript"],
+    "visual": "pos"
+  },
+  {
+    "title": "PORTAL OPERASIONAL & EVALUASI LINTAS DIVISI",
+    "category": "Operasional",
+    "year": "2025",
+    "role": "Manajer Operasional & System Architect",
+    "type": "website",
+    "media": "https://github.com/wawancellcomp",
+    "description": "Dashboard pemantauan KPI, jadwal kerja SDM, dan koordinasi program kerja antar-divisi berbasis web.",
+    "stack": ["Dashboard", "SDLC", "Operations"],
+    "visual": "operations"
+  },
+  {
+    "title": "RESTFUL API GATEWAY & AUTHENTICATION SERVICE",
+    "category": "Backend & API",
+    "year": "2025",
+    "role": "Backend Engineer",
+    "type": "website",
+    "media": "https://github.com/wawancellcomp",
+    "description": "Layanan backend modular dengan autentikasi token, manajemen role dan permission bertingkat, serta integrasi basis data.",
+    "stack": ["Node.js", "REST API", "JWT"],
+    "visual": "api"
+  },
+  {
+    "title": "SISTEM AKADEMIK & ARSIP DIGITAL",
+    "category": "Sistem Informasi",
+    "year": "2026",
+    "role": "Full Stack Developer",
+    "type": "website",
+    "media": "https://github.com/wawancellcomp",
+    "description": "Aplikasi pengelolaan dokumen, surat-menyurat, dan pengarsipan terpusat dengan pencarian cepat serta kontrol akses pengguna.",
+    "stack": ["Laravel", "MySQL", "Search"],
+    "visual": "archive"
+  },
+  {
+    "title": "DASHBOARD MONITORING PROGRAM & KPI",
+    "category": "Frontend UI",
+    "year": "2024",
+    "role": "Frontend Developer",
+    "type": "website",
+    "media": "https://github.com/wawancellcomp",
+    "description": "Antarmuka ringkas untuk membaca progres program, metrik kinerja, dan ringkasan aktivitas dalam satu tampilan.",
+    "stack": ["React", "JavaScript", "CSS"],
+    "visual": "dashboard"
+  },
+  {
+    "title": "PORTAL DATA & PELAPORAN LEMBAGA",
+    "category": "Sistem Informasi",
+    "year": "2023",
+    "role": "System Analyst & Full Stack Developer",
+    "type": "website",
+    "media": "https://github.com/wawancellcomp",
+    "description": "Portal pengelolaan data dan pelaporan terstruktur yang membantu administrasi lembaga serta koordinasi lintas tim.",
+    "stack": ["PHP", "MySQL", "Reporting"],
+    "visual": "reports"
+  },
+  {
+    "title": "SISTEM PENCATATAN LAYANAN & INVENTARIS",
+    "category": "Web App",
+    "year": "2023",
+    "role": "Full Stack Developer",
+    "type": "website",
+    "media": "https://github.com/wawancellcomp",
+    "description": "Alur pencatatan layanan, inventaris, dan status pekerjaan untuk menjaga informasi operasional tetap rapi dan mudah ditelusuri.",
+    "stack": ["Laravel", "SQL", "Workflow"],
+    "visual": "inventory"
+  },
+  {
+    "title": "REST API INTEGRASI DATA & NOTIFIKASI",
+    "category": "Backend & API",
+    "year": "2022",
+    "role": "Backend Developer",
+    "type": "website",
+    "media": "https://github.com/wawancellcomp",
+    "description": "Rancangan layanan integrasi untuk validasi masukan, pertukaran data, dan notifikasi pada alur aplikasi web.",
+    "stack": ["REST API", "PHP", "SQL"],
+    "visual": "integrations"
+  },
+  {
+    "title": "WEBSITE PROFIL & LAYANAN WAWANCELLCOMP",
+    "category": "Frontend UI",
+    "year": "2021",
+    "role": "Founder & Web Developer",
+    "type": "website",
+    "media": "https://github.com/wawancellcomp",
+    "description": "Website profil digital untuk memperkenalkan layanan teknologi dan memudahkan calon pelanggan menemukan informasi bisnis.",
+    "stack": ["HTML", "CSS", "JavaScript"],
+    "visual": "website"
+  }
+]

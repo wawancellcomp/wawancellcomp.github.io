@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Laundry QU — Beranda layanan",
+    "image": "./Asset/img/projects/laundry-qu-home.png",
+    "alt": "Halaman utama website Laundry QU dengan katalog paket layanan."
+  },
+  {
+    "title": "Laundry QU — Dasbor operasional",
+    "image": "./Asset/img/projects/laundry-qu-dashboard.png",
+    "alt": "Dasbor operasional Laundry QU untuk mengelola layanan dan transaksi."
+  },
+  {
+    "title": "Canon-iPad Booth — Website photobooth",
+    "image": "./Asset/img/projects/canon-ipad-booth-home.png",
+    "alt": "Halaman utama layanan photobooth Canon-iPad Booth."
+  },
+  {
+    "title": "Yayasan Markaz Yatim Duafa Qurani — Beranda",
+    "image": "./Asset/img/projects/markaz-yatim-home.png",
+    "alt": "Halaman utama website Yayasan Markaz Yatim Duafa Qurani."
+  },
+  {
+    "title": "Portal lisensi pesantren — Dasbor",
+    "image": "./Asset/img/projects/pondok-license-dashboard.png",
+    "alt": "Dasbor portal lisensi dan sistem informasi pondok pesantren."
+  },
+  {
+    "title": "Wawancellcomp — Kasir POS",
+    "image": "./Asset/img/projects/wawancellcomp-pos.png",
+    "alt": "Antarmuka kasir POS Wawancellcomp."
+  }
+]
